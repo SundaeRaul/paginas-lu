@@ -1,0 +1,38 @@
+.confirmacao-body {
+    background-image: url(../../img/bg1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.div-principal {
+    margin-top: 5%;
+    background-color: white;
+    width: 40%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 12px;
+    margin-bottom: 11.6%;
+}
+
+.div-principal h1 {
+    width: 45%;
+    margin-top: 6%;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.div-principal p {
+    margin-top: 4%;
+    width: 75%;
+    font-size: 36px;
+}
+
+.icon-cartao {
+    width: 25%;
+    height: auto;
+    margin-bottom: 6%;
+}
